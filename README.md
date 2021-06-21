@@ -2,7 +2,7 @@
 
 Me gustan los problemas!🤔 Bueno, no me gusta tener problemas, pero si me emocionan aquellos donde puedo utilizar software para resolverlos.🤓
 
-# My Skills:
+# Mis Skills:
 Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Express JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Redux JS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Posgres&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Sequelize&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;NPM&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Material UI&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;VBA for aplication
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55" ></a>
