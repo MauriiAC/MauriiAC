@@ -19,6 +19,8 @@ Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node JS&nbsp;&nbsp;&nbsp;|&nbsp;&
 <a href="https://material-ui.com/"><img src="https://material-ui.com/static/logo_raw.svg"  height="55" width="55" ></a>
 <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/"><img src="https://wyday.com/images/lm/langs/vba.svg"  height="55" width="55" ></a>
 
+<br/>
+
 ## Aprendiendo:
 React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Kubernetes
 
@@ -28,8 +30,9 @@ React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;|&n
 <a href="https://www.docker.com/"><img src="https://ccie.tv/content/images/2019/08/docker-11.svg"  height="55" width="55" ></a>
 <a href="https://kubernetes.io//"><img src="https://icon-library.com/images/533a30ab9c.svg.svg"  height="55" width="55" ></a>
 
+<br/><br/>
 
-## Contactame
+## Puedo ayudarte? Contactame
 <br/>
 <a href="https://www.linkedin.com/in/mauricio-adrian-cuello"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45" >
 <a href="mailto:mauriciocuello91@gmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
